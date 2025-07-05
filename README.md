@@ -15,7 +15,6 @@
   
 </div style="display: inline_block"><br>
 
-Atualmente trabalho com audiovisual no estúdio de televisão da universidade.
-Estou cursando o último semestre de Publicidade e Propaganda.
-Vou ingressar em Sistemas de Informação ou Análise e Desenvolvimento de Sistemas em agosto de 2025, assim que terminar o curso atual.
-Estou estudando Python por conta própria, pretendo me aprofundar na área de técnologia e descobrir com qual das vertentes me identifico.
+Atualmente trabalho como estagiária de TI na universidade.
+Estou cursando o primeiro semestre de Sistemas de Informação.
+Comecei estudando Python por conta própria, pretendo me aprofundar na área de técnologia e descobrir com qual das vertentes me identifico.
