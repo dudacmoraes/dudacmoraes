@@ -1,8 +1,7 @@
 <h1 align="center">Olá! Eu sou a Maria Eduarda!</h1>
 
 <p align="center">
-  [<img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="380px">](https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif
-)
+  <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="380px">
 </p>
 
 ---
