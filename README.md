@@ -1,53 +1,83 @@
-<h1 align="center">Olá! Eu sou a Maria Eduarda!</h1>
+<!-- Banner RGB -->
+<p align="center">
+  <img src="https://i.imgur.com/3ZQ3ZQX.gif" width="800"/>
+</p>
+
+<h1 align="center">👾 Olá! Eu sou a Duda 👾</h1>
+<h3 align="center">Estudante de Sistemas de Informação • Estagiária de Projetos • Formada em Publicidade e Propaganda</h3>
 
 ---
 
-## 🎮 Sobre mim
-
-- 💻 Estudante de Sistemas de Informação (1º semestre)  
-- 🚀 Estagiária de TI na universidade  
-- 🐍 Comecei estudando Python por conta própria  
-- 🔥 Amante de tudo que é RGB, neon, gamer aesthetic  
-- 🌱 Explorando C, Python e o trio HTML/CSS/JS para descobrir minha área favorita
+## 🎨 Temas que eu curto
+**Monokai • Andromeda • Synthwave • RGB neon • Cyberpunk**
 
 ---
 
-## 🎨 Tecnologias que estou estudando
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
-
----
-
-## ⚡ Estatísticas (modo RGB ON)
+## 🔥 Minhas Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudacmoraes&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=ff00ff&icon_color=00ffff&text_color=ffffff"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudacmoraes&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=00ffff&text_color=ffffff"/>
+  <!-- Stats estilo Synthwave/Neon -->
+  <img height="180em"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dudacmoraes&show_icons=true&rank_icon=github&theme=synthwave&border_radius=12&hide_border=false"/>
+
+  <img height="180em"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dudacmoraes&layout=compact&theme=synthwave&border_radius=12&hide_border=false"/>
+
+  <!-- Streak estilo Monokai -->
+  <img height="180em" 
+       src="https://streak-stats.demolab.com?user=dudacmoraes&theme=monokai-metallian&hide_border=false&border_radius=12" />
+
 </div>
 
 ---
 
-## 📬 Contato
+## 💻 Tecnologias que uso
+
+<div style="display: inline_block"><br>
+
+  <img align="center" alt="Python" height="40" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <img align="center" alt="HTML" height="40" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+  <img align="center" alt="CSS" height="40" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <img align="center" alt="JS" height="40" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+
+  <img align="center" alt="C" height="40" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+
+</div>
+
+---
+
+## 📫 Onde me encontrar  
 
 <div>
   <a href="mailto:dudamoraes1709@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-ff00ff?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-ff007f?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/maria-eduarda-costa-638547241/">
-    <img src="https://img.shields.io/badge/-LinkedIn-00ffff?style=for-the-badge&logo=linkedin&logoColor=black">
+
+  <a href="https://www.linkedin.com/in/maria-eduarda-costa-638547241/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-7f00ff?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+
+---
+
+## 🚀 Sobre mim
+
+🎓 Cursando **Sistemas de Informação**  
+💼 Estagiária de **TI**  
+💡 Estudando **Python, HTML, CSS, JavaScript e C**  
+✨ Quero descobrir com qual área de tecnologia eu mais me identifico — mas tenho uma queda forte por Front-end e desenvolvimento criativo.
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200"><br>
-  <strong>✨ “Todo começo é pequeno, mas cheio de luz.” ✨</strong>
+  <img src="https://i.imgur.com/sQ8xQZQ.gif" width="300"/>
 </p>
