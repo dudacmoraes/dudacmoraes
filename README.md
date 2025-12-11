@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou a Maria Eduarda!</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/0W7i8X8.gif" width="380px">
+  <img src="https://i.imgur.com/wqUHKpB.gif" width="380px">
 </p>
 
 ---
