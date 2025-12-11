@@ -8,11 +8,6 @@
 
 ---
 
-## 🎨 Temas que eu curto
-**Monokai • Andromeda • Synthwave • RGB neon • Cyberpunk**
-
----
-
 ## 🔥 Minhas Estatísticas
 
 <div align="center">
@@ -33,7 +28,7 @@
 
 ## 💻 Tecnologias que uso
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 
   <img align="center" alt="Python" height="40" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
