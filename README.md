@@ -1,9 +1,5 @@
 <h1 align="center">Olá! Eu sou a Maria Eduarda!</h1>
 
-<p align="center">
-  <img src="https://i.imgur.com/wqUHKpB.gif" width="380px">
-</p>
-
 ---
 
 ## 🎮 Sobre mim
