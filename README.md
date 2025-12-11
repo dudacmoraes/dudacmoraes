@@ -1,6 +1,6 @@
 <!-- Banner RGB -->
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9bc27292880429.5e569ff84e4d0.gif" width="800"/>
+  <img src="https://i.pinimg.com/originals/de/34/12/de3412e3c5d2ed0b11ec8291a28a3db5.gif" width="800"/>
 </p>
 
 <h1 align="center">👾 Olá! Eu sou a Duda 👾</h1>
