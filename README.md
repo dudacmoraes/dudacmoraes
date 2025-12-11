@@ -17,18 +17,17 @@
 
 <div align="center">
 
-  <!-- Stats estilo Synthwave/Neon -->
   <img height="180em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dudacmoraes&show_icons=true&rank_icon=github&theme=synthwave&border_radius=12&hide_border=false"/>
+       src="https://github-readme-stats.vercel.app/api?username=dudacmoraes&show_icons=true&theme=synthwave&rank_icon=github&border_radius=10"/>
 
   <img height="180em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dudacmoraes&layout=compact&theme=synthwave&border_radius=12&hide_border=false"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudacmoraes&layout=compact&theme=synthwave&border_radius=10"/>
 
-  <!-- Streak estilo Monokai -->
-  <img height="180em" 
-       src="https://streak-stats.demolab.com?user=dudacmoraes&theme=monokai-metallian&hide_border=false&border_radius=12" />
+  <img height="180em"
+       src="https://streak-stats.demolab.com?user=dudacmoraes&theme=monokai-metallian&border_radius=10"/>
 
 </div>
+
 
 ---
 
@@ -77,7 +76,3 @@
 ✨ Quero descobrir com qual área de tecnologia eu mais me identifico — mas tenho uma queda forte por Front-end e desenvolvimento criativo.
 
 ---
-
-<p align="center">
-  <img src="https://i.imgur.com/sQ8xQZQ.gif" width="300"/>
-</p>
