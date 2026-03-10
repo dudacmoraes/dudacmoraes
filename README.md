@@ -9,6 +9,7 @@
   Estagiária de Implantação de Projetos • Estudante de Sistemas de Informação • Formada em Publicidade e Propaganda
 </p>
 
+<p>
   <a href="https://www.linkedin.com/in/maria-eduarda-costa-638547241/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -46,8 +47,6 @@ Todos os projetos abaixo foram desenvolvidos para uso real, com clientes. Os dad
 | 📊 [Gantt Executivo — Tema Claro](./Gantt_Light_portfolio.html) | Mesma estrutura do anterior, criado propositalmente para dar opção de envio ao cliente |
 | ✅ [Checklist — Jornada de Clientes](./Checklist_Jornada_portfolio.html) | Checklist interativo com dois modos de jornada, timeline, modais e progresso salvo |
 | 📋 [Status Report — Sprint Tracker](./Status_Report_portfolio.html) | Tabela de acompanhamento de sprints com filtro e pílulas de status com efeito neon |
-
-> Mais projetos em breve.
 
 ---
 
