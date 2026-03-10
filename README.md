@@ -6,13 +6,9 @@
 <h1 align="center">Olá, eu sou a Duda 👋</h1>
 
 <p align="center">
-  Analista de Implantação de Projetos • Estudante de Sistemas de Informação • Formada em Publicidade e Propaganda
+  Estagiária de Implantação de Projetos • Estudante de Sistemas de Informação • Formada em Publicidade e Propaganda
 </p>
 
-<p align="center">
-  <a href="mailto:dudamoraes1709@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/maria-eduarda-costa-638547241/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
