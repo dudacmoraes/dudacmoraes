@@ -1,4 +1,3 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/de/34/12/de3412e3c5d2ed0b11ec8291a28a3db5.gif" width="800"/>
 </p>
@@ -9,9 +8,9 @@
   Estagiária de Implantação de Projetos • Estudante de Sistemas de Informação • Formada em Publicidade e Propaganda
 </p>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/maria-eduarda-costa-638547241/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"; text-align="center"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
