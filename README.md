@@ -5,7 +5,7 @@
 <h1 align="center">Olá, eu sou a Duda 👋</h1>
 
 <p align="center">
-  Estagiária de Implantação de Projetos • Estudante de Sistemas de Informação • Formada em Publicidade e Propaganda
+  Estagiária de Planejamento • Estudante de Design Digital • Formada em Publicidade e Propaganda
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 
 ## Sobre mim
 
-Trabalho com implantação de sistemas em uma empresa de TI, acompanhando projetos do kickoff ao go-live com clientes de diferentes segmentos. Comecei na área de Publicidade e Propaganda — e essa bagagem me deu um olhar diferente para front-end: não basta funcionar, tem que comunicar.
+Trabalho com desenvolvimento de software na área de PPCP da Embraer, com foco em melhoria de processos manuais. Comecei na área de Publicidade e Propaganda — e essa bagagem me deu um olhar diferente para front-end: não basta funcionar, tem que comunicar.
 
-Atualmente cursando **Sistemas de Informação** e estudando desenvolvimento front-end com foco em criar interfaces que sejam ao mesmo tempo funcionais e bem pensadas visualmente.
+Atualmente cursando **Design Digital** e estudando desenvolvimento front-end com foco em criar interfaces que sejam ao mesmo tempo funcionais e bem pensadas visualmente.
 
 ---
 
