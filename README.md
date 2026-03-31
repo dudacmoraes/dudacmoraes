@@ -39,7 +39,3 @@ Atualmente cursando **Design Digital** e estudando desenvolvimento front-end com
 
 ## 🌐 Portfólio
 🔗 https://dudacmoraes.github.io/portfolio/
-
-## 💼 Projetos (UI / clientes)
-🔗 https://github.com/dudacmoraes/projetos-ui
-
