@@ -36,13 +36,10 @@ Atualmente cursando **Design Digital** e estudando desenvolvimento front-end com
 
 ---
 
-## Projetos
 
-Todos os projetos abaixo foram desenvolvidos para uso real, com clientes. Os dados foram anonimizados para fins de portfólio.
+## 🌐 Portfólio
+🔗 https://dudacmoraes.github.io/portfolio/
 
-| Projeto | Descrição |
-|---|---|
-| 📊 [Gantt Executivo — Tema Escuro](./Gantt_Dark_portfolio.html) | Status report em formato Gantt com pins animados, sticky column e tema dark |
-| 📊 [Gantt Executivo — Tema Claro](./Gantt_Light_portfolio.html) | Mesma estrutura do anterior, criado propositalmente para dar opção de envio ao cliente |
-| ✅ [Checklist — Jornada de Clientes](./Checklist_Jornada_portfolio.html) | Checklist interativo com dois modos de jornada, timeline, modais e progresso salvo |
-| 📋 [Status Report — Sprint Tracker](./Status_Report_portfolio.html) | Tabela de acompanhamento de sprints com filtro e pílulas de status com efeito neon |
+## 💼 Projetos (UI / clientes)
+🔗 https://github.com/dudacmoraes/projetos-ui
+
