@@ -40,8 +40,8 @@ Atualmente cursando **Design Digital** e estudando desenvolvimento front-end com
 ## 📊 Minhas Estatísticas
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudacmoraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudacmoraes&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dudacmoraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudacmoraes&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ---
