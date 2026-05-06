@@ -31,21 +31,22 @@ Atualmente cursando **Design Digital** e estudando desenvolvimento front-end com
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" title="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" title="C"/>
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" />
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dudacmoraes&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=9&theme=dark&hide_border=false" height="500" alt="languages graph"/>
+  </div>
 </p>
 
 ---
 
-
-## 📊 Minhas Estatísticas
-
-<p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dudacmoraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudacmoraes&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dudacmoraes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
+</div>
 
 ---
-
 
 ## 🌐 Portfólio
 🔗 https://dudacmoraes.github.io/portfolio/
