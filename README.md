@@ -35,9 +35,6 @@ Atualmente cursando **Design Digital** e estudando desenvolvimento front-end com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" />
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dudacmoraes&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=9&theme=dark&hide_border=false" height="500" alt="languages graph"/>
-  </div>
 </p>
 
 ---
