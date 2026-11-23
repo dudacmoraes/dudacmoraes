@@ -32,7 +32,7 @@ Atualmente cursando **Sistemas de Informação** e estudando desenvolvimento fro
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" title="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" title="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/springboot/springboot-original.svg" height="40" title="Spring Boot"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="40" title="Spring Boot"/>
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35"/>
